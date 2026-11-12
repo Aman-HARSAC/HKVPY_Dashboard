@@ -1,0 +1,475 @@
+import {
+  n as n4
+} from "./chunk-ZB4LVNAL.js";
+import {
+  e as e2,
+  n as n3
+} from "./chunk-5ZIV52UW.js";
+import {
+  a,
+  u
+} from "./chunk-KKMXNFSV.js";
+import {
+  f as f2
+} from "./chunk-WX5J7HF3.js";
+import "./chunk-FKLP2SQT.js";
+import "./chunk-KZRKCJE6.js";
+import {
+  W
+} from "./chunk-B5M5WBZD.js";
+import "./chunk-BRPWYF7B.js";
+import "./chunk-XS6P245F.js";
+import "./chunk-A2VTMNJ3.js";
+import "./chunk-Y6MXIULC.js";
+import {
+  f as f3
+} from "./chunk-V2Z2TRGN.js";
+import "./chunk-6XSUK645.js";
+import "./chunk-SPVKVXUR.js";
+import "./chunk-JOT7NJEQ.js";
+import "./chunk-7BG6JEH5.js";
+import "./chunk-APN4ZNT7.js";
+import "./chunk-J6GGFSW4.js";
+import "./chunk-247H27JM.js";
+import "./chunk-XHM6OPA5.js";
+import {
+  c
+} from "./chunk-UJ67ZHZE.js";
+import "./chunk-JKDLXAJZ.js";
+import "./chunk-XJTFKAAL.js";
+import {
+  s as s2
+} from "./chunk-ZUHK7ZF3.js";
+import {
+  e
+} from "./chunk-Y37XMD6B.js";
+import "./chunk-RZFKWVYS.js";
+import "./chunk-M237OA2W.js";
+import "./chunk-BXI2CHH4.js";
+import "./chunk-UJ7GKG37.js";
+import "./chunk-PRLR6XRF.js";
+import "./chunk-A5YSIKNU.js";
+import "./chunk-YOKAK57B.js";
+import "./chunk-MOHPT53R.js";
+import "./chunk-BUBWQ637.js";
+import "./chunk-BKL2NWNR.js";
+import "./chunk-SFCQZULW.js";
+import "./chunk-A6FR5S7G.js";
+import "./chunk-H3DIC2LV.js";
+import "./chunk-IABCCFYF.js";
+import "./chunk-Q2YWI3MD.js";
+import "./chunk-MMRUQKTW.js";
+import {
+  Z
+} from "./chunk-EFHBHAA4.js";
+import "./chunk-6KWDQ4WZ.js";
+import "./chunk-RIBJ5N3I.js";
+import "./chunk-U4ORDVXL.js";
+import "./chunk-QAR3XYLH.js";
+import "./chunk-MWUMZ6I3.js";
+import "./chunk-V6P3CLQN.js";
+import {
+  B
+} from "./chunk-3S4UQIKR.js";
+import "./chunk-ZJ7THKOH.js";
+import "./chunk-6VLBUSGM.js";
+import "./chunk-IFWBBE4R.js";
+import "./chunk-57YJ4LUD.js";
+import {
+  d as d2
+} from "./chunk-M4KX5WGY.js";
+import "./chunk-RKUP6IGK.js";
+import "./chunk-5YT5CEN4.js";
+import "./chunk-UZVXLLR6.js";
+import "./chunk-GLGQSUTI.js";
+import "./chunk-N75LYAXI.js";
+import "./chunk-SU7TCOD5.js";
+import "./chunk-BUQVAMRX.js";
+import "./chunk-OXBINIBC.js";
+import "./chunk-WWZXCVZD.js";
+import {
+  c as c2,
+  ee,
+  ne
+} from "./chunk-U4RGADP6.js";
+import "./chunk-2SHUULFD.js";
+import {
+  n as n2
+} from "./chunk-WBIYJFPH.js";
+import "./chunk-D3ZX65FB.js";
+import "./chunk-4EQOYGFB.js";
+import "./chunk-5MNDHBTZ.js";
+import "./chunk-26FGXCQ6.js";
+import "./chunk-LERWNH2Q.js";
+import "./chunk-6YICR2EO.js";
+import "./chunk-UJKR5KHP.js";
+import "./chunk-V7NNKZ6Y.js";
+import "./chunk-TVGGJOM3.js";
+import "./chunk-PVAT2NHO.js";
+import "./chunk-STQFPQVU.js";
+import "./chunk-NOPG2N5A.js";
+import "./chunk-S2KMNA4F.js";
+import "./chunk-C55UYTQS.js";
+import "./chunk-HXC5WSBJ.js";
+import "./chunk-RPZFAICW.js";
+import "./chunk-SJ73CYXJ.js";
+import "./chunk-O2JWOAJX.js";
+import "./chunk-DFNOYW4Q.js";
+import "./chunk-JMCZ5MZN.js";
+import {
+  n
+} from "./chunk-COZ6V3AW.js";
+import "./chunk-EB4KQTVG.js";
+import "./chunk-USWJSG3Z.js";
+import "./chunk-GAVCSY6L.js";
+import {
+  d as d3
+} from "./chunk-TDLZTKXF.js";
+import {
+  f
+} from "./chunk-U6KP2EF3.js";
+import {
+  C,
+  N,
+  T
+} from "./chunk-34BRYRUD.js";
+import "./chunk-U2QKMJ4B.js";
+import "./chunk-4UOM2HCU.js";
+import "./chunk-5JATF3X2.js";
+import "./chunk-DH5VWAPI.js";
+import "./chunk-7ROW6F7C.js";
+import "./chunk-DYRGLTSD.js";
+import "./chunk-A44PNKPT.js";
+import "./chunk-RBMTPSG6.js";
+import "./chunk-4GXW7QHT.js";
+import "./chunk-U5N37DRX.js";
+import "./chunk-BL6K2K3K.js";
+import "./chunk-PXFESYJY.js";
+import "./chunk-QLJQMJ35.js";
+import "./chunk-WWTPYTMN.js";
+import {
+  H2 as H,
+  I,
+  qt
+} from "./chunk-YJVAYQRF.js";
+import "./chunk-PRKAQBHS.js";
+import {
+  d
+} from "./chunk-W6MJCXR6.js";
+import {
+  i3 as i,
+  s2 as s
+} from "./chunk-4K6SV242.js";
+import "./chunk-ZXWV3PMI.js";
+import "./chunk-G26ADAPQ.js";
+
+// node_modules/@arcgis/core/layers/graphics/sources/csv/csv.js
+var o = /^\s*"([\S\s]*)"\s*$/;
+var l = /""/g;
+var s3 = "\n";
+var u2 = [",", " ", ";", "|", "	"];
+function* c3(e3, t, n5) {
+  let r = 0;
+  for (; r <= e3.length; ) {
+    const i2 = e3.indexOf(t, r), o2 = e3.slice(r, i2 > -1 ? i2 : void 0);
+    r += o2.length + t.length, n5 && !o2.trim() || (yield o2);
+  }
+}
+function f4(e3) {
+  const t = e3.includes("\r\n") ? "\r\n" : s3;
+  return c3(e3, t, true);
+}
+function a2(e3, t) {
+  return c3(e3, t, false);
+}
+function d4(e3, t, n5) {
+  e3 = e3.trim(), t = t?.trim();
+  const r = [], o2 = Array.from(/* @__PURE__ */ new Set([n5?.delimiter, ...u2])).filter((e4) => null != e4);
+  for (const i2 of o2) {
+    const n6 = g(e3, i2).length, o3 = g(t, i2).length ?? n6;
+    n6 > 1 && r.push({ weight: Math.min(n6, o3), delimiter: i2 });
+  }
+  const l2 = r.sort(({ weight: e4 }, { weight: t2 }) => t2 - e4).map(({ delimiter: e4 }) => e4);
+  for (const s4 of l2) {
+    const t2 = m(e3, s4).names, r2 = n4(t2, n5?.longitudeField, n5?.latitudeField);
+    if (r2.longitudeFieldName && r2.latitudeFieldName) return { delimiter: s4, locationInfo: r2 };
+  }
+  return { delimiter: l2[0], locationInfo: null };
+}
+function* p(e3, t, n5, r = () => /* @__PURE__ */ Object.create(null)) {
+  const i2 = f4(e3);
+  i2.next();
+  let u3 = "", c4 = "", d5 = 0, p2 = r(), m2 = 0;
+  e: for (const f5 of i2) {
+    const e4 = a2(f5, n5);
+    for (const i3 of e4) if (u3 += c4 + i3, c4 = "", d5 += h(i3), d5 % 2 == 0) {
+      if (d5 > 0) {
+        const e5 = o.exec(u3);
+        if (!e5) {
+          p2 = r(), m2 = 0, u3 = "", d5 = 0;
+          continue e;
+        }
+        p2[t[m2]] = e5[1].replaceAll(l, '"'), m2++;
+      } else p2[t[m2]] = u3, m2++;
+      u3 = "", d5 = 0;
+    } else c4 = n5;
+    0 === d5 ? (yield p2, p2 = r(), m2 = 0) : c4 = s3;
+  }
+}
+function m(e3, t) {
+  const r = g(e3, t).filter((e4) => null != e4), i2 = r.map((e4) => c2(e4));
+  for (let n5 = i2.length - 1; n5 >= 0; n5--) i2[n5] || (i2.splice(n5, 1), r.splice(n5, 1));
+  return { names: i2, aliases: r };
+}
+function g(e3, t) {
+  if (!e3?.length) return [];
+  const n5 = [];
+  let r = "", i2 = "", s4 = 0;
+  const u3 = a2(e3, t);
+  for (const c4 of u3) if (r += i2 + c4, i2 = "", s4 += h(c4), s4 % 2 == 0) {
+    if (s4 > 0) {
+      const e4 = o.exec(r);
+      e4 && n5.push(e4[1].replaceAll(l, '"'));
+    } else n5.push(r);
+    r = "", s4 = 0;
+  } else i2 = t;
+  return n5;
+}
+function h(e3) {
+  let t = 0, n5 = 0;
+  for (n5 = e3.indexOf('"', n5); n5 >= 0; ) t++, n5 = e3.indexOf('"', n5 + 1);
+  return t;
+}
+function N2(e3, t, n5, i2, o2) {
+  const l2 = [], s4 = p(e3, n5, t), u3 = [];
+  for (const r of s4) {
+    if (10 === u3.length) break;
+    u3.push(r);
+  }
+  for (let c4 = 0; c4 < n5.length; c4++) {
+    const e4 = n5[c4], t2 = i2[c4];
+    if (e4 === o2.longitudeFieldName || e4 === o2.latitudeFieldName) l2.push({ name: e4, type: "esriFieldTypeDouble", alias: t2 });
+    else {
+      let n6;
+      switch (b(u3.map((t3) => t3[e4]))) {
+        case "integer":
+          n6 = "esriFieldTypeInteger";
+          break;
+        case "double":
+          n6 = "esriFieldTypeDouble";
+          break;
+        case "date":
+          n6 = "esriFieldTypeDate";
+          break;
+        default:
+          n6 = "esriFieldTypeString";
+      }
+      l2.push({ name: e4, type: n6, alias: t2, length: ne(n6) });
+    }
+  }
+  return l2;
+}
+function b(t) {
+  if (!t.length) return "string";
+  const n5 = /[^+\-.,0-9]/;
+  return t.map((t2) => {
+    if ("" !== t2) {
+      if (!n5.test(t2)) {
+        let e3 = x(t2);
+        if (!isNaN(e3)) return /[.,]/.test(t2) || !Number.isInteger(e3) || e3 > 214783647 || e3 < -214783648 ? "double" : "integer";
+        if (t2.includes("E")) {
+          if (e3 = Number(t2), !Number.isNaN(e3)) return "double";
+          if (t2.includes(",") && (t2 = t2.replace(",", "."), e3 = Number(t2), !Number.isNaN(e3))) return "double";
+        }
+      }
+      return e2(t2) ? "date" : "string";
+    }
+  }).reduce((e3, t2) => void 0 === e3 ? t2 : void 0 === t2 ? e3 : e3 === t2 ? t2 : "string" === e3 || "string" === t2 ? "string" : "double" === e3 || "double" === t2 ? "double" : void 0);
+}
+var x = (function() {
+  const e3 = c(), n5 = new RegExp("^" + e3.regexp + "$"), r = new RegExp("[" + e3.group + "\\s\\xa0]", "g"), i2 = e3.factor;
+  return (t) => {
+    const o2 = n5.exec(t);
+    if (e3.factor = i2, !o2) return NaN;
+    let l2 = o2[1];
+    if (!o2[1]) {
+      if (!o2[2]) return NaN;
+      l2 = o2[2], e3.factor *= -1;
+    }
+    return l2 = l2.replace(r, "").replace(e3.decimal, "."), +l2 * e3.factor;
+  };
+})();
+function y(e3) {
+  return JSON.parse(JSON.stringify(e3));
+}
+
+// node_modules/@arcgis/core/layers/graphics/sources/support/CSVSourceWorker.js
+var v = u("esriGeometryPoint");
+var D = ["csv"];
+var k = [0, 0];
+var P = class {
+  constructor(e3, t) {
+    this.x = e3, this.y = t;
+  }
+};
+var R = class {
+  constructor() {
+    this._queryEngine = null, this._snapshotFeatures = async (e3) => {
+      const t = await this._fetch(e3);
+      return this._createFeatures(t);
+    };
+  }
+  destroy() {
+    this._queryEngine?.destroy(), this._queryEngine = null;
+  }
+  async load(e3, t = {}) {
+    this._loadOptions = e3;
+    const [i2] = await Promise.all([this._fetch(t.signal), this._checkProjection(e3?.parsingOptions?.spatialReference)]), n5 = V(i2, e3);
+    this._locationInfo = n5.locationInfo, this._delimiter = n5.delimiter, this._queryEngine = this._createQueryEngine(n5);
+    const r = this._createFeatures(i2);
+    this._queryEngine.featureStore.addMany(r);
+    const { fullExtent: s4, timeExtent: o2 } = await this._queryEngine.fetchRecomputedExtents();
+    if (n5.layerDefinition.extent = s4, o2) {
+      const { start: e4, end: t2 } = o2;
+      n5.layerDefinition.timeInfo.timeExtent = [e4, t2];
+    }
+    return n5;
+  }
+  async applyEdits() {
+    throw new s("csv-layer:editing-not-supported", "applyEdits() is not supported on CSVLayer");
+  }
+  async queryFeatures(e3 = {}, t = {}) {
+    return await this._waitSnapshotComplete(), this._queryEngine.executeQuery(e3, t.signal);
+  }
+  async queryFeatureCount(e3 = {}, t = {}) {
+    return await this._waitSnapshotComplete(), this._queryEngine.executeQueryForCount(e3, t.signal);
+  }
+  async queryObjectIds(e3 = {}, t = {}) {
+    await this._waitSnapshotComplete();
+    return (await this._queryEngine.executeQueryForIds(e3, t.signal)).filter(n2);
+  }
+  async queryExtent(e3 = {}, t = {}) {
+    return await this._waitSnapshotComplete(), this._queryEngine.executeQueryForExtent(e3, t.signal);
+  }
+  async querySnapping(e3, t = {}) {
+    return await this._waitSnapshotComplete(), await this._queryEngine.executeQueryForSnapping(e3, t.signal);
+  }
+  async queryAttributeBins(e3, t = {}) {
+    return await this._waitSnapshotComplete(), this._queryEngine.executeAttributeBinsQuery(e3, t.signal);
+  }
+  async refresh(e3) {
+    this._loadOptions.customParameters = e3, this._snapshotTask?.abort(), this._snapshotTask = d2(this._snapshotFeatures), this._snapshotTask.promise.then((e4) => {
+      this._queryEngine.featureStore.clear(), e4 && this._queryEngine.featureStore.addMany(e4);
+    }, (e4) => {
+      this._queryEngine.featureStore.clear(), d(e4) || i.getLogger("esri.layers.CSVLayer").error(new s("csv-layer:refresh", "An error occurred during refresh", { error: e4 }));
+    }), await this._waitSnapshotComplete();
+    const { fullExtent: i2, timeExtent: o2 } = await this._queryEngine.fetchRecomputedExtents();
+    return { extent: i2, timeExtent: o2 };
+  }
+  async _waitSnapshotComplete() {
+    if (this._snapshotTask && !this._snapshotTask.finished) {
+      try {
+        await this._snapshotTask.promise;
+      } catch {
+      }
+      return this._waitSnapshotComplete();
+    }
+  }
+  async _fetch(t) {
+    const { url: i2, customParameters: r } = this._loadOptions;
+    if (!i2) throw new s("csv-layer:invalid-source", "url not defined");
+    const s4 = I(i2);
+    return (await H(s4.path, { query: { ...s4.query, ...r }, responseType: "text", signal: t })).data;
+  }
+  _createQueryEngine(e3) {
+    const { objectIdField: t, fields: i2, extent: n5, timeInfo: r } = e3.layerDefinition, s4 = new f2({ geometryType: "esriGeometryPoint", hasM: false, hasZ: false }), o2 = { type: "object-id", fieldName: t };
+    return new W({ fieldsIndex: Z.fromLayerJSON({ fields: i2, dateFieldsTimeReference: { timeZoneIANA: n } }), geometryType: "esriGeometryPoint", hasM: false, hasZ: false, timeInfo: r, featureIdInfo: o2, spatialReference: n5.spatialReference || { wkid: 4326 }, featureStore: s4 });
+  }
+  _createFeatures(e3) {
+    const { latitudeFieldName: t, longitudeFieldName: n5 } = this._locationInfo, { objectIdField: r, fieldsIndex: s4, spatialReference: o2 } = this._queryEngine;
+    let a3 = [];
+    const u3 = [], h2 = s4.fields.filter((e4) => e4.name !== r).map((e4) => e4.name);
+    let g2 = 0;
+    const I2 = {};
+    for (const i2 of s4.fields) if ("esriFieldTypeOID" !== i2.type && "esriFieldTypeGlobalID" !== i2.type) {
+      const e4 = ee(i2);
+      void 0 !== e4 && (I2[i2.name] = e4);
+    }
+    const E = p(e3, h2, this._delimiter, a(I2, r));
+    for (const l2 of E) {
+      const e4 = this._parseCoordinateValue(l2[t]), o3 = this._parseCoordinateValue(l2[n5]);
+      if (null != o3 && null != e4 && !isNaN(e4) && !isNaN(o3)) {
+        l2[t] = e4, l2[n5] = o3;
+        for (const e5 in l2) if (e5 !== t && e5 !== n5) if (s4.isDateField(e5)) l2[e5] = n3(l2[e5]);
+        else if (s4.isNumericField(e5)) {
+          const t2 = x(l2[e5]);
+          isNaN(t2) ? l2[e5] = null : l2[e5] = t2;
+        } else null != l2[e5] && (l2[e5] = y(l2[e5]));
+        l2[r] = g2, g2++, a3.push(new P(o3, e4)), u3.push(l2);
+      }
+    }
+    if (!T({ wkid: 4326 }, o2)) if (C(o2)) for (const i2 of a3) [i2.x, i2.y] = d3(i2.x, i2.y, k);
+    else a3 = B(a3, f.WGS84, o2);
+    const T2 = [];
+    for (let i2 = 0; i2 < a3.length; i2++) {
+      const { x: e4, y: t2 } = a3[i2], n6 = u3[i2];
+      n6[r] = i2 + 1, T2.push(new s2(new e([], [e4, t2]), n6, null, n6[r]));
+    }
+    return T2;
+  }
+  _parseCoordinateValue(e3) {
+    if (null == e3 || "" === e3) return null;
+    let t = x(e3);
+    return (isNaN(t) || Math.abs(t) > 181) && (t = parseFloat(e3)), t;
+  }
+  async _checkProjection(e3) {
+    try {
+      await f3(N, e3);
+    } catch {
+      throw new s("csv-layer:projection-not-supported", "Projection not supported");
+    }
+  }
+};
+function V(e3, t) {
+  const i2 = t.parsingOptions || {}, r = { delimiter: i2.delimiter, layerDefinition: null, locationInfo: { latitudeFieldName: i2.latitudeField, longitudeFieldName: i2.longitudeField } }, s4 = r.layerDefinition = { name: qt(t.url, D) || "csv", dateFieldsTimeReference: { timeZoneIANA: n }, drawingInfo: v, geometryType: "esriGeometryPoint", objectIdField: null, fields: [], timeInfo: i2.timeInfo, extent: { xmin: Number.POSITIVE_INFINITY, ymin: Number.POSITIVE_INFINITY, xmax: Number.NEGATIVE_INFINITY, ymax: Number.NEGATIVE_INFINITY, spatialReference: i2.spatialReference || { wkid: 4326 } } }, o2 = f4(e3), l2 = o2.next().value?.trim(), c4 = o2.next().value?.trim();
+  if (!l2) throw new s("csv-layer:empty-csv", "CSV is empty", { csv: e3 });
+  const { delimiter: m2, locationInfo: d5 } = d4(l2, c4, i2);
+  if (!m2) throw new s("csv-layer:invalid-delimiter", "Unable to detect the delimiter from CSV", { firstLine: l2, secondLine: c4, parsingOptions: i2 });
+  if (!d5) throw new s("csv-layer:location-fields-not-found", "Unable to identify latitude and longitude fields from the CSV file", { firstLine: l2, secondLine: c4, parsingOptions: i2 });
+  r.locationInfo = d5, r.delimiter = m2;
+  const { names: u3, aliases: f5 } = m(l2, m2), p2 = N2(e3, r.delimiter, u3, f5, r.locationInfo);
+  if (i2.fields?.length) {
+    const e4 = new Z(i2.fields);
+    for (const t2 of p2) {
+      const i3 = e4.get(t2.name);
+      i3 && Object.assign(t2, i3);
+    }
+  }
+  if (!p2.some((e4) => "esriFieldTypeOID" === e4.type && (s4.objectIdField = e4.name, true))) {
+    const e4 = { name: "__OBJECTID", alias: "__OBJECTID", type: "esriFieldTypeOID", editable: false, nullable: false };
+    s4.objectIdField = e4.name, p2.unshift(e4);
+  }
+  s4.fields = p2;
+  const y2 = new Z(s4.fields);
+  if (r.locationInfo && (r.locationInfo.latitudeFieldName = y2.get(r.locationInfo.latitudeFieldName).name, r.locationInfo.longitudeFieldName = y2.get(r.locationInfo.longitudeFieldName).name), s4.timeInfo) {
+    const e4 = s4.timeInfo;
+    if (e4.startTimeField) {
+      const t2 = y2.get(e4.startTimeField);
+      t2 ? (e4.startTimeField = t2.name, t2.type = "esriFieldTypeDate") : e4.startTimeField = null;
+    }
+    if (e4.endTimeField) {
+      const t2 = y2.get(e4.endTimeField);
+      t2 ? (e4.endTimeField = t2.name, t2.type = "esriFieldTypeDate") : e4.endTimeField = null;
+    }
+    if (e4.trackIdField) {
+      const t2 = y2.get(e4.trackIdField);
+      e4.trackIdField = t2 ? t2.name : null;
+    }
+    e4.startTimeField || e4.endTimeField || (s4.timeInfo = null);
+  }
+  return r;
+}
+export {
+  R as default
+};
+//# sourceMappingURL=CSVSourceWorker-FKNHCU27.js.map
